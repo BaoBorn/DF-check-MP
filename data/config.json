@@ -1,0 +1,88 @@
+{
+  "password": "admin",
+  "profiles": [
+    {
+      "id": 1,
+      "name": "Profile 1",
+      "items": [
+        {
+          "searchTerm": "axe",
+          "alert": 300000,
+          "mode": "name",
+          "alertEnabled": true
+        }
+      ],
+      "selectedZones": [
+        2,
+        1,
+        0
+      ],
+      "interval": 60000,
+      "cookie": "321321412",
+      "discordEnabled": true,
+      "webhook": "https://discord.com/api/webhooks/1479463226084167782/Rw1QJlP9gtGotrDQ4qXXOFBGPELW2Rktr8TZC0YUHaKSAx83TB-Cpu4_Lhstu6lrZXbW",
+      "roleId": "1479429191995752459"
+    },
+    {
+      "id": 2,
+      "name": "Profile 2",
+      "items": [],
+      "selectedZones": [],
+      "interval": 60000,
+      "cookie": "",
+      "discordEnabled": false,
+      "webhook": "",
+      "roleId": ""
+    },
+    {
+      "id": 3,
+      "name": "Profile 3",
+      "items": [
+        {
+          "searchTerm": "heavy",
+          "alert": 30000,
+          "mode": "name",
+          "alertEnabled": true
+        },
+        {
+          "searchTerm": "12.7",
+          "alert": 50000,
+          "mode": "name",
+          "alertEnabled": true
+        }
+      ],
+      "selectedZones": [
+        2,
+        1,
+        0
+      ],
+      "interval": 5000,
+      "cookie": "1491930312635191478",
+      "discordEnabled": true,
+      "webhook": "https://discord.com/api/webhooks/1479463226084167782/Rw1QJlP9gtGotrDQ4qXXOFBGPELW2Rktr8TZC0YUHaKSAx83TB-Cpu4_Lhstu6lrZXbW",
+      "roleId": "1479429191995752459"
+    },
+    {
+      "id": 4,
+      "name": "Profile 4",
+      "items": [],
+      "selectedZones": [],
+      "interval": 60000,
+      "cookie": "",
+      "discordEnabled": false,
+      "webhook": "",
+      "roleId": ""
+    },
+    {
+      "id": 5,
+      "name": "Profile 5",
+      "items": [],
+      "selectedZones": [],
+      "interval": 60000,
+      "cookie": "",
+      "discordEnabled": false,
+      "webhook": "",
+      "roleId": ""
+    }
+  ]
+}
